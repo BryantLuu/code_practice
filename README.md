@@ -1,2 +1,2 @@
-# leet_code_practice
-practicing leetcode
+# code_practice
+practicing coding algos
